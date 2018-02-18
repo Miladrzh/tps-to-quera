@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tpsTOquera:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tpsTOquera_jar</output-path>
+    <root id="archive" name="tpsTOquera.jar">
+      <element id="module-output" name="tpsTOquera" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-20170516.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
